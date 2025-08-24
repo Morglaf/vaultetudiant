@@ -1,0 +1,11 @@
+# Obsidian - Ignorer complètement le dossier .obsidian pour l'instant
+.obsidian/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers de sauvegarde
+*.backup
+*.backup*
